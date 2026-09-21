@@ -60,7 +60,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation - hi ali
+            Documentation - hi ali dadash
           </a>
         </div>
       </main>
